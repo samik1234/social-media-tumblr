@@ -18,7 +18,7 @@ const Explore = () => {
 
   const [searchValue, setSearchValue] = useState("");
   const debouncedSearch = useDebounce(searchValue, 500);
-  const { data: searchedPosts, isFetching: isSearchFetching } = useSearchPosts(debouncedSearch);
+  const { isFetching: isSearchFetching } = useSearchPosts(debouncedSearch);
 
   useEffect(() => {
     if (inView && !searchValue) {
@@ -80,9 +80,7 @@ const Explore = () => {
       <div className="flex flex-wrap gap-9 w-full max-w-5xl">
       {shouldShowSearchResults ? (
           <SearchResults
-            isSearchFetching={isSearchFetching}
-            searchedPosts={searchedPosts}
-          />
+            isSearchFetching={isSearchFetching} searchedPosts={[]}/>
         ) : shouldShowPosts ? (
           <p className="text-rose-300 mt-10 text-center w-full">End of posts</p>
         ) : (
