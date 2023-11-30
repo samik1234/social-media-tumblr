@@ -1,5 +1,57 @@
 # React + TypeScript + Vite
 
+
+
+Build Your App
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![tun](https://github.com/samik1234/social-media-tumblr/assets/82882143/cc3fc668-9507-4735-843d-c5600685430e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
