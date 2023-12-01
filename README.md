@@ -2,8 +2,8 @@
 
 
 
-Build Your App - Social Media like Tumblr
-
+Build Your App - Social Media App - Tumblr
+It is used a Appwrite database
 
 
 
