@@ -15,7 +15,7 @@ Build a modern social app with a stunning UI with a native mobile feel, a specia
 
 
 
-
+To build your social media app, you can use React JS with TypeScript and Vite. You can also use Appwrite for backend services. Vite is a fast and lightweight build tool that provides a rapid development experience focused on speed and simplicity. Next.js is a popular framework for building server-side rendered React applications. It provides features such as automatic code splitting, server-side rendering, and static site generation. You can use vite and nextjs to build your app.
 
 
 
