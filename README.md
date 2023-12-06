@@ -21,7 +21,7 @@ To build your social media app, you can use React JS with TypeScript and Vite. Y
 
 
 
-
+Use this code and build an great application.
 
 
 
