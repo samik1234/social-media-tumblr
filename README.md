@@ -9,10 +9,10 @@
 
 
 
-![Uploading Untitled design.png…]()
 
 
 
+![Untitled design](https://github.com/samik1234/social-media-tumblr/assets/82882143/fadf94b4-d781-4f82-8f30-64d1f26b6bc3)
 
 
 
