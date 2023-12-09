@@ -6,15 +6,16 @@
 
 
 
+![side-img](https://github.com/samik1234/social-media-tumblr/assets/82882143/93143a47-5bac-44c4-a749-07c9e833a988)
 
 
 
 
 
 
-![Untitled design](https://github.com/samik1234/social-media-tumblr/assets/82882143/fadf94b4-d781-4f82-8f30-64d1f26b6bc3)
 
 
+![Untitled design](https://github.com/samik1234/social-media-tumblr/assets/82882143/6cd75efd-501a-40bd-a20c-329144c29ef5)
 
 
 
