@@ -15,7 +15,6 @@
 
 
 
-![Untitled design](https://github.com/samik1234/social-media-tumblr/assets/82882143/6cd75efd-501a-40bd-a20c-329144c29ef5)
 
 
 
